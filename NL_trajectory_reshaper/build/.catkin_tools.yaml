@@ -1,0 +1,6 @@
+devel_space: /Finance/World_Model_Transformer/NL_trajectory_reshaper/devel
+install: false
+install_space: /Finance/World_Model_Transformer/NL_trajectory_reshaper/install
+profile: default
+source_space: /Finance/World_Model_Transformer/NL_trajectory_reshaper/src
+workspace: /Finance/World_Model_Transformer/NL_trajectory_reshaper

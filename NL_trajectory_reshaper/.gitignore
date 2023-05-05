@@ -1,0 +1,10 @@
+kdenlive_projects/
+bags/
+user_trajs/
+models/*
+data/*
+src/motion_refiner
+__pycache__/
+*.pyc
+.vscode
+src/.vscode
